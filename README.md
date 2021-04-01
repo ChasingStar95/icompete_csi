@@ -1,5 +1,5 @@
 # csi
-基于AI的信道信息反馈性能提升, see [official website](https://www.datafountain.cn/competitions/494) for details
+基于AI的信道信息反馈性能提升，麦克斯韦团队解决方案, see [official website](https://www.datafountain.cn/competitions/494) for details
 
 #  训练
 - 参见 colab_train.ipynb
